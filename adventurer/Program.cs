@@ -33,7 +33,6 @@ while(running)
     }
 }
 
-/*
 foreach(Item item in inventory)
 {
     Console.WriteLine(item.Name);
@@ -43,4 +42,3 @@ foreach(Item item in inventory)
         w.Attack();
     }
 }
-*/
